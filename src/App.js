@@ -12,6 +12,10 @@ function App() {
       <button id="session-increment">+</button>
       <div id="break-length">5</div>
       <div id="session-length">25</div>
+      <div id="timer-label">Session</div>
+      <div id="time-left">25:00</div>
+      <button id="start_stop">Start/Stop</button>
+      <button id="reset">Reset</button>
     </div>
   );
 }
